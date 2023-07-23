@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Nagatoro Hayase",
+	"description": "Anime series\n",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Don%27t_Toy_with_Me,_Miss_Nagatoro"
+		]
+	},
+	"path": {
+		"134": [
+			[
+				-703,
+				-297
+			],
+			[
+				-673,
+				-297
+			],
+			[
+				-673,
+				-260
+			],
+			[
+				-702,
+				-260
+			]
+		]
+	},
+	"center": {
+		"134": [
+			-688,
+			-279
+		]
+	}
+}
